@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Thomas-Simpson
+- 🌱 I’m currently studying computer science at the University of Western Australia
